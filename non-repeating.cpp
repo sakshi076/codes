@@ -21,6 +21,10 @@ int main(){
 		if(flag==1){
 			cout<<s[i];
 			break;
+		}
+		else{
+			cout<<"-1";
+			break;
 		}	
 	}
 	
